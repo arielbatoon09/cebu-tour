@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.product-big-title-2{
+    color: #01b3a7;
+    font-size: 1.5rem;
+}
+.page-tour-title{
+    margin: 50px 0 -10px 0;
+    background: #01b3a7;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 2rem;
+}
+.page-details-wrap .card{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.page-details-wrap .card-header{
+    color: #01b3a7;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.page-details-wrap .card i{
+    vertical-align: middle;
+    text-align: center;
+    font-size: 16px;
+    color: rgb(1, 179, 167);
+    margin-right: 15px;
+    
+}
+.breadcrumbs-custom .box-position{
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.5), rgba(1, 179, 167, 0.5)),
+    url('../images/banner.png');
+}
+.about-title{
+    color: #01b3a7;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.about-sub-title{
+    color: #151515;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.about-description{
+    color: #9b9b9b;
+}
+@media only screen and (max-width: 768px){
+    .page-tour-title{
+        font-size: 1.5rem;
+    }
+}
+@media only screen and (max-width: 320px){
+    .page-tour-title{
+        font-size: 1rem;
+    }
+}
