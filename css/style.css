@@ -9979,8 +9979,10 @@ h5 + .list-popular-product {
 }
 
 .product-big-text {
+	font-size: 1.1rem;
+	font-weight: 500;
 	letter-spacing: .025em;
-	color: #9b9b9b;
+	color: #3E3E3E;
 }
 
 .product-big-price-wrap {

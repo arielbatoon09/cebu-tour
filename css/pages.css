@@ -50,6 +50,10 @@
   font-weight: 500;
   color: #01b3a7;
 }
+.tours-price{
+  color: #01b3a7;
+  font-weight: 700;
+}
 
 /*===== All Preloader Style =====*/
 .pre-loader {
