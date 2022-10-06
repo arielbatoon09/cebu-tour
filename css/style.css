@@ -832,7 +832,7 @@ a[href*='tel'], a[href*='mailto'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	border: 8px solid #f4f4f4;
+	border: 8px solid #50ba87;
 	transition: all .2s ease;
 	z-index: -1;
 }
@@ -873,7 +873,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-icon-classic-text {
-	color: #9b9b9b;
+	color: #5e5e5e;
 }
 
 @media (min-width: 992px) {
@@ -9946,7 +9946,7 @@ h5 + .list-popular-product {
 }
 
 .product-big-title {
-	font-weight: 500;
+	font-weight: 600;
 	letter-spacing: normal;
 	font-size: 21px;
 }
@@ -9979,10 +9979,10 @@ h5 + .list-popular-product {
 }
 
 .product-big-text {
-	font-size: 1.1rem;
+	font-size: 1rem;
 	font-weight: 500;
 	letter-spacing: .025em;
-	color: #3E3E3E;
+	color: #616161;
 }
 
 .product-big-price-wrap {
